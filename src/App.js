@@ -6,29 +6,29 @@ function App() {
       <h1>Welcome to My React App</h1>
       <p>This app is running on Nginx!</p>
 
-      <h2>Deployed by: <strong>Your Full Name</strong></h2>
+      <h2>Deployed by: <strong>Student Name</strong></h2>
       <p>Date: <strong>DD/MM/YYYY</strong></p>
 
       <hr style={{ margin: "20px 0" }} />
 
       <p>
-        P.S. This post is part of the FREE DevOps for Beginners Cohort run by
-        <strong> Pravin Mishra</strong>.
+        P.S. This post is part of the FREE Cloud and DevOps for Beginners Cohort run by
+        <strong> Nkiruka Obilor</strong>.
       </p>
       <p>
-        You can start your DevOps journey for free from his{" "}
+        You can start your DevOps journey for free from her{" "}
         <a
-          href="https://www.youtube.com/playlist?list=PLVOdqXbCs7bX88JeUZmK4fKTq2hJ5VS89"
+          href="https://chat.whatsapp.com/Gq2KYYJ05ErC1Yb2dGKWgy"
           target="_blank"
           rel="noopener noreferrer"
         >
-          YouTube Playlist
+          WhatsApp Group
         </a>.
       </p>
       <p>
-        Connect with Pravin on{" "}
+        Connect with Nkiruka on{" "}
         <a
-          href="https://www.linkedin.com/in/pravin-mishra-aws-trainer/"
+          href="https://www.linkedin.com/in/nkiruka-obilor"
           target="_blank"
           rel="noopener noreferrer"
         >
